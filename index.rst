@@ -23,7 +23,7 @@ Este libro está en continua evolución, por lo que asegúrate de que tienes la 
 Autor
 ==================
 
-Sobre el autor de la traducción: Este libro es una traducción en Español escrita por `cursospython.com <cursospython.com>`__ titulada *Python Intermedio*. Somos una comunidad de Python en español, comprometida a crear documentación y tutoriales sobre el lenguaje, accesibles de manera gratuita en nuestra web. Colaboramos con la comunidad *open source* y esta traducción ha sido donada al igual que el original bajo una licencia *Creative Commons* CC BY-NC-SA 4.0, lo que principalmente dice que puedes hacer lo que quieras con este libro siempre y cuando menciones la fuente y sea con fines no comerciales.
+Sobre el autor de la traducción: Este libro es una traducción en Español escrita por `cursospython.com <https://www.cursospython.com>`__ titulada *Python Intermedio*. Somos una comunidad de Python en español, comprometida a crear documentación y tutoriales sobre el lenguaje, accesibles de manera gratuita en nuestra web. Colaboramos con la comunidad *open source* y esta traducción ha sido donada al igual que el original bajo una licencia *Creative Commons* CC BY-NC-SA 4.0, lo que principalmente dice que puedes hacer lo que quieras con este libro siempre y cuando menciones la fuente y sea con fines no comerciales.
 
 Sobre el autor original: Su versión original es de Muhammad Yasoob Ullah Khalid, un fan de Python con varios años de experiencia en el lenguaje, y conocido en la comunidad. Participó en 2014 en EuroPython en Berlin, una de las mayores conferencias de Python en Europa.
 

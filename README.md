@@ -1,35 +1,23 @@
-![Intermediate Python Book Cover](_static/cover.png)
-
-Intermediate Python
+Libro Python Intermedio
 ===================
 
-Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I will give you bits of information about some interesting topics which you can further explore.
+Python es un lenguaje de programación increíble con una comunidad de programadores de las más fuertes, y es cada vez más usado en gran cantidad de ámbitos e industrias. Sin embargo, muchas veces es difícil encontrar documentación, y sobre todo en Español. En `cursospython.com <cursospython.com>`__ estamos comprometidos con la enseñanza en Python, y colaboramos tanto con contenido propio como con traducciones. Es una pena que siendo el Español un idioma tan hablado, sea tan complicado encontrar documentación de calidad. No todo el mundo entiende Inglés perfectamente, y aunque ese sea el caso, ¿no resulta más fácil de leer el contenido escrito en tu lengua materna? El idioma nunca puede ser una barrera en la educación.
 
-The topics which are discussed in this book will open your mind to some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.
+Este libro recopila diferentes conceptos de Python de un nivel intermedio, por lo que para poder leerlo fácilmente es necesario tener unas bases del lenguaje de programación. El libro no pretende ser una referencia, sino un complemento a la documentación oficial, que muchas veces resulta difícil de leer y poco didáctica, sobre todo para gente que está empezando.
 
-If you are a beginner, intermediate or even an advanced programmer there is something for you in this book.
+Aún así, estoy seguro de que sea cual sea tu nivel, habrá algo para ti en este libro. Tanto si eres un principiante como si tu nivel es intermedio, verás nuevos conceptos que pronto podrás empezar a utilizar en tu día a día. Por otro lado si eres un experto, estoy seguro de que tal vez encuentres alguna forma de colaborar, por lo que estaríamos encantados de escucharte.
 
-Please note that this book is not a tutorial and does not teach you Python. The topics are not explained in-depth and only the minimum required information is given.
-
-I am sure you are as excited as I am. So, let’s start!
-
-Note: This book is a work in progress. If you find anything which you can further improve (I know you will find a lot of stuff) then kindly submit a pull request. :)
-
-Moreover, if you want to add more content to this book then kindly submit a pull request and I will be more than happy to merge it. :+1:
+Este libro está en continua evolución, por lo que asegúrate de que tienes la última, y si tienes cualquier sugerencia estamos abiertos a ellas a través del repositorio de GitHub.
 
 -------------------
 
-**Note:** If you want to tip me for my work then you can buy the donation version of this book from [Gumroad](https://gum.co/intermediate_python). Apart from that, if this book somehow helps you then kindly share your experience with [me](mailto:yasoob.khld@gmail.com). I would really appreciate it.
-
--------------------
-
-Table of Contents:
+Tabla de Contenido:
 ------------------
-1) Programmer tools
+1) Herramientas
     - [Virtual Environment](virtual_environment.rst)
     - [Debugging](debugging.rst)
     - [Object introspection](object_introspection.rst)
-2) Syntax
+2) Sintaxis
     - [Exceptions](exceptions.rst)
     - [For - Else](for_-_else.rst)
     - [Ternary Operators](ternary_operators.rst)
@@ -37,21 +25,21 @@ Table of Contents:
     - [Open function](open_function.rst)
     - [\*args and \*\*kwargs](args_and_kwargs.rst)
     - [Context managers](context_managers.rst)
-3) Functional programming
+3) Programación Funcional
     - [Enumerate](enumerate.rst)
     - [Lambdas](lambdas.rst)
     - [``set`` Data Structure](set_-_data_structure.rst)
     - [Map & Filter](map_filter.rst)
     - [Comprehensions](comprehensions.rst)
-4) Data structures
+4) Estructuras de Datos
     - [Generators](generators.rst)
     - [Coroutines](coroutines.rst)
     - [Classes](classes.rst)
-5) Data types
+5) Tipos de Datos
     - [Collections](collections.rst)
     - [Mutation](mutation.rst)
     - [\_\_slots\_\_ Magic](__slots__magic.rst)
-6) Decorators
+6) Decoradores
     - [What is a decorator?](decorators.rst)
     - [Function caching](function_caching.rst)
 7) Extras
@@ -59,32 +47,17 @@ Table of Contents:
     - [Targeting Python 2+3](targeting_python_2_3.rst)
     - [Python C extensions](python_c_extension.rst)
 
-Author:
+Autor:
 ------
 
-- [Muhammad Yasoob Ullah Khalid](https://github.com/yasoob)
+- Traducción: [cursospython.com](www.cursospython.com)
+- Original: [Muhammad Yasoob Ullah Khalid](https://github.com/yasoob)
 
-Acknowledgement:
+Agradecimientos:
 ----------------
 
-- [Philipp Hagemeister](https://github.com/phihag):
 
-He wrote the chapter on Open function. Thanks Philipp! :+1:
-
-Translation:
-------------
-If you want to translate this book in any other language then kindly let [me know](mailto:yasoob.khld@gmail.com). I would love your contribution. The currently translated versions are listed below:
-
-- [Chinese](https://github.com/eastlakeside/interpy-zh)
-- [Russian](https://github.com/lancelote/interpy-ru)
-- [Korean](https://github.com/DDanggle/interpy-kr)
-- [Portuguese](https://github.com/joanasouza/intermediatePython)
-
-License:
+Licencia:
 -------
 
-This book is released under the [following](http://creativecommons.org/licenses/by-nc-sa/4.0/) CC license (CC BY-NC-SA 4.0).
-
-If you end up using/recommending this book to someone then kindly [let me know](mailto:yasoob.khld@gmail.com). :smile:
-
-
+Este libro y su traducción están bajo la siguiente licencia [following](http://creativecommons.org/licenses/by-nc-sa/4.0/) CC license (CC BY-NC-SA 4.0). Lo que significa que puedes hacer prácticamente lo que quieras con el libro siempre y cuando se mencione a los autores y no sea con fines comerciales. Estamos abiertos a cualquier contribución.

@@ -1,3 +1,5 @@
+El libro puede ser accedido de manera online en el siguiente enlace [https://python-intermedio.readthedocs.io/es/latest/](https://python-intermedio.readthedocs.io/es/latest/)
+
 Libro Python Intermedio
 ===================
 

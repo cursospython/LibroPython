@@ -2,7 +2,7 @@
 
 .. note::
 
-   Este documento contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio. Ha sido traducido por la comunidad `cursospython.com <cursospython.com>`__ y todo el contenido ha sido donado bajo licencia de *Creative Commons*, por lo que siéntete libre para compartirlo, modificarlo o colaborar. Libro original: `intermediatePython <https://github.com/yasoob/intermediatePython>`__
+   Este documento contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio. Ha sido traducido por la comunidad `cursospython.com <https://www.cursospython.com>`__ y todo el contenido ha sido donado bajo licencia de *Creative Commons*, por lo que siéntete libre para compartirlo, modificarlo o colaborar. Libro original: `intermediatePython <https://github.com/yasoob/intermediatePython>`__
 
 Python Intermedio
 ===================
@@ -11,7 +11,7 @@ Python Intermedio
 Introducción
 ============
 
-Python es un lenguaje de programación increíble con una comunidad de programadores de las más fuertes, y es cada vez más usado en gran cantidad de ámbitos e industrias. Sin embargo, muchas veces es difícil encontrar documentación, y sobre todo en Español. En `cursospython.com <cursospython.com>`__ estamos comprometidos con la enseñanza en Python, y colaboramos tanto con contenido propio como con traducciones. Es una pena que siendo el Español un idioma tan hablado, sea tan complicado encontrar documentación de calidad. No todo el mundo entiende Inglés perfectamente, y aunque ese sea el caso, ¿no resulta más fácil de leer el contenido escrito en tu lengua materna? El idioma nunca puede ser una barrera en la educación.
+Python es un lenguaje de programación increíble con una comunidad de programadores de las más fuertes, y es cada vez más usado en gran cantidad de ámbitos e industrias. Sin embargo, muchas veces es difícil encontrar documentación, y sobre todo en Español. En `cursospython.com <https://www.cursospython.com>`__ estamos comprometidos con la enseñanza en Python, y colaboramos tanto con contenido propio como con traducciones. Es una pena que siendo el Español un idioma tan hablado, sea tan complicado encontrar documentación de calidad. No todo el mundo entiende Inglés perfectamente, y aunque ese sea el caso, ¿no resulta más fácil de leer el contenido escrito en tu lengua materna? El idioma nunca puede ser una barrera en la educación.
 
 Este libro recopila diferentes conceptos de Python de un nivel intermedio, por lo que para poder leerlo fácilmente es necesario tener unas bases del lenguaje de programación. El libro no pretende ser una referencia, sino un complemento a la documentación oficial, que muchas veces resulta difícil de leer y poco didáctica, sobre todo para gente que está empezando.
 

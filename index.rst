@@ -2,7 +2,7 @@
 
 .. note::
 
-   Este documento contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio. Ha sido traducido por la comunidad `cursospython.com <cursospython.com>`__ y todo el contenido ha sido donado bajo licencia de *Creative Commons*, por lo que siéntete libre para compartirlo, modificarlo o colaborar. Libro original: `intermediatePython <https://github.com/yasoob/intermediatePython>`.
+   Este documento contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio. Ha sido traducido por la comunidad `cursospython.com <cursospython.com>`__ y todo el contenido ha sido donado bajo licencia de *Creative Commons*, por lo que siéntete libre para compartirlo, modificarlo o colaborar. Libro original: `intermediatePython <https://github.com/yasoob/intermediatePython>`__
 
 Python Intermedio
 ===================

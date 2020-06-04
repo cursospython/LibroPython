@@ -52,7 +52,7 @@ Tabla de Contenido:
 Autor:
 ------
 
-- Traducción: [cursospython.com](www.cursospython.com)
+- Traducción: [www.cursospython.com](www.cursospython.com)
 - Original: [Muhammad Yasoob Ullah Khalid](https://github.com/yasoob)
 
 Agradecimientos:

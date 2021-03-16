@@ -42,7 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Python Intermedio'
-copyright = u'Traducción: cursospython.com | Original: Muhammad Yasoob Ullah Khalid'
+copyright = u'Traducción: ellibrodepython.com | Original: Muhammad Yasoob Ullah Khalid'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -187,7 +187,7 @@ latex_use_parts = True
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'PythonTips.tex', u'Python Intermedio',
-   u'Traducción: cursospython.com', 'manual'),
+   u'Traducción: ellibrodepython.com', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -218,7 +218,7 @@ latex_additional_files = ['flaskstyle.sty', '_static/cover.pdf']
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'pythontips', u'Python Intermedio',
-     [u'Traducción: cursospython.com | Original: Muhammad Yasoob Ullah Khalid'], 1)
+     [u'Traducción: ellibrodepython.com | Original: Muhammad Yasoob Ullah Khalid'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -253,9 +253,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Python Intermedio'
-epub_author = u'Traducción: cursospython.com | Original: Muhammad Yasoob Ullah Khalid'
-epub_publisher = u'Traducción: cursospython.com | Original: Muhammad Yasoob Ullah Khalid'
-epub_copyright = u'Traducción: cursospython.com | Original: Muhammad Yasoob Ullah Khalid'
+epub_author = u'Traducción: ellibrodepython.com | Original: Muhammad Yasoob Ullah Khalid'
+epub_publisher = u'Traducción: ellibrodepython.com | Original: Muhammad Yasoob Ullah Khalid'
+epub_copyright = u'Traducción: ellibrodepython.com | Original: Muhammad Yasoob Ullah Khalid'
 
 
 #epub_theme = 'epub'

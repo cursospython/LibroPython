@@ -9,7 +9,7 @@ Python viene con un tipo por defecto denominado Enumerate. Permite asignar índi
     for contador, valor in enumerate(lista):
         print(contador, valor)
 
-También acepta un parametro opcional que que lo hace aún más útil.
+También acepta un parametro opcional que lo hace aún más útil.
 
 .. code:: python
 

@@ -45,7 +45,7 @@ Personalmente uso **defaultdict** bastante. A diferencia de ``dict`` con ``defau
     #     'Galicia': ['Ourense', 'Pontevedra']
     # })
 
-Una de las ocasiones en las que son más útiles, es si quieres añadir elementos a listas anidadas dentro e un diccionario. Si la llave o *key* no está ya presente en el diccionario, tendrás un error tipo ``KeyError``. El uso de ``defaultdict`` permite evitar este problema. Antes de nada, vamos a ver un ejemplo con ``dict`` que daría un error ``KeyError`` como hemos mencionado, y después veremos la solución usando ``defaultdict``.
+Una de las ocasiones en las que son más útiles, es si quieres añadir elementos a listas anidadas dentro de un diccionario. Si la llave o *key* no está ya presente en el diccionario, tendrás un error tipo ``KeyError``. El uso de ``defaultdict`` permite evitar este problema. Antes de nada, vamos a ver un ejemplo con ``dict`` que daría un error ``KeyError`` como hemos mencionado, y después veremos la solución usando ``defaultdict``.
 
 **Problema:**
 
@@ -76,7 +76,7 @@ Ahora podrías imprimir también el diccionario ``some_dict`` usando ``json.dump
 ``OrderedDict``
 ^^^^^^^^^^^^^^^^^^^
 
-``OrderedDict`` es un diccionario que mantiene ordenadas sus entradas según van siendo añadidas. Es importante saber también que sobreescribir un valor existente no cambia la posición de la llave o *key*. Sin embargo, eliminar y reinsertar una entrar mueve la llave al final del diccionario. 
+``OrderedDict`` es un diccionario que mantiene ordenadas sus entradas según van siendo añadidas. Es importante saber también que sobreescribir un valor existente no cambia la posición de la llave o *key*. Sin embargo, eliminar y reinsertar una entrada mueve la llave al final del diccionario. 
 
 **Problema:**
 
@@ -217,7 +217,7 @@ Ahora cuando insertamos valores después del 5, la parte más a la izquierda ser
 ``namedtuple``
 ^^^^^^^^^^^^^^^^^^
 
-Tal vez conozcas ya las tupas, que son listas inmutables que permiten almacenar una secuencia de valores separados por coma. Son simplemente como las listas pero con algunas diferencias importantes. La principal es que a diferencia de las listas **no puedes reasignar el valor de un elemento** una vez inicializada. Para acceder a un índice de la tupla se hace de la siguiente manera:
+Tal vez conozcas ya las tuplas, que son listas inmutables que permiten almacenar una secuencia de valores separados por coma. Son simplemente como las listas pero con algunas diferencias importantes. La principal es que a diferencia de las listas **no puedes reasignar el valor de un elemento** una vez inicializada. Para acceder a un índice de la tupla se hace de la siguiente manera:
 
 .. code:: python
 
@@ -326,7 +326,7 @@ Por último, existen tres formas de acceder a los enum. Sigamos con el ejemplo a
 .. code:: python
 
     Especies(1)
-    Especies['cat']
-    Especies.cat
+    Especies['gato']
+    Especies.gato
 
 Con esto finalizamos una breve introducción al módulo de ``collections`` de Python. Si quieres saber más, te recomendamos que leas la documentación oficial de Python, que aunque pueda ser un poco más técnica y menos didáctica, con esta introducción ya deberías estar list@ para entenderla.

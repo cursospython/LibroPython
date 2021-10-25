@@ -83,7 +83,7 @@ O también es una forma muy simple de definir parámetros con valores por defect
 .. code:: python
 
     >>> def mi_funcion(nombre_real, nombre_opcional=None):
-    >>>     nombre_opcional = optional_display_name or nombre_real
+    >>>     nombre_opcional = nombre_opcional or nombre_real
     >>>     print(nombre_opcional)
     >>> mi_funcion("Pelayo")
     Pelayo

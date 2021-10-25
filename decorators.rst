@@ -52,7 +52,7 @@ Vamos a ir un paso más allá. En Python podemos definir funciones dentro de otr
         print(bienvenida())
         print("De vuelta a la función hola()")
 
-    hi()
+    hola()
     #Salida:Estas dentro de la función hola()
     #       Estás dentro de la función saluda()
     #       Estás dentro de la función bienvenida()
@@ -115,7 +115,7 @@ Por último, podemos hacer que una función tenga a otra como entrada y que adem
         print("Hacer algo antes de llamar a func")
         print(func())
 
-    hazEstoAntesDeHola(hi)
+    hazEstoAntesDeHola(hola)
     #Salida: Hacer algo antes de llamar a func
     #        ¡Hola!
 

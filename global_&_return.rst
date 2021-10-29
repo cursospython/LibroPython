@@ -70,8 +70,8 @@ Tal vez quieras devolver más de una variable desde una función. Una primera fo
     def perfil():
         global nombre
         global edad
-        name = "Pelayo"
-        age = 30
+        nombre = "Pelayo"
+        edad = 30
 
     perfil()
     print(nombre)

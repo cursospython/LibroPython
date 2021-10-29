@@ -117,7 +117,7 @@ Tal vez te preguntes porque no pasa esto cuando usamos un bucle ``for``. La resp
 .. code:: python
 
     cadena = "Pelayo"
-    next(my_string)
+    next(cadena)
     # Salida: cadena (most recent call last):
     #      File "<stdin>", line 1, in <module>
     #    TypeError: str object is not an iterator

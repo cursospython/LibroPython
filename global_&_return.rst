@@ -18,7 +18,7 @@ La función anterior toma dos argumentos de entrada y como salida devuelve su su
 
     def suma(valor1, valor2):
         global resultado
-        result = valor1 + valor2
+        resultado = valor1 + valor2
 
     suma(3,5)
     print(resultado)
@@ -43,7 +43,7 @@ Por otro lado, hemos visto como se puede hacer uso de ``global``. Por norma gene
     # fuera
     Traceback (most recent call last):
       File "", line 1, in
-        result
+        resultado
     NameError: name 'resultado' is not defined
 
     # Ahora vamos a hacer lo mismo pero declarando la función
@@ -70,8 +70,8 @@ Tal vez quieras devolver más de una variable desde una función. Una primera fo
     def perfil():
         global nombre
         global edad
-        name = "Pelayo"
-        age = 30
+        nombre = "Pelayo"
+        edad = 30
 
     perfil()
     print(nombre)

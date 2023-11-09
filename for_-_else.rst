@@ -11,7 +11,7 @@ Empecemos con un ejemplo básico de ``for``, nada nuevo:
 
     frutas = ['manzana', 'plátano', 'mango']
     for fruta in frutas:
-        print(fruit.capitalize())
+        print(fruta.capitalize())
 
     # Output: Manzana
     #         Plátano
